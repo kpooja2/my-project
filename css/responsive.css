@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+ @media (min-width: 1200px){
+.container {
+    width: 1032px;
+}   
+ }
+@media (max-width:768px){
+.navigation li a span {padding: 0 64px;}
+.user{padding-right:0;}
+.key-word input[type="text"]{width: 100%;}
+.information-sections{height: 1018px;}
+.search-info{height: 814px;}
+.offer-information {height: 814px;}
+.left-blue-imag{margin-right: -50px;}
+.right-oreng-imag{margin-left: -50px;}
+.next {margin-top: 154px;}
+}
+@media (max-width:640px){
+.navigation li a span{padding: 0 37px;}	
+.papular-tag-button a{font-size: 14px;}
+a.y {font-size: 14px;}
+.title b{font-size: 17px;}
+.key-word{font-size: 17px;}
+p.serch_text{font-size: 17px;}
+.offfer-info {font-size: 17px;}
+.discription-type textarea{font-size: 17px;}
+.papular-tags p {font-size: 17px;}
+.next {margin-top: 84px;}   	
+}
+@media (max-width:568px){
+.navigation li a span{padding: 0 22px;padding-left: 20px;}
+.md1 h1 {font-size: 35px;}
+.md1 span {font-size: 30px;}
+.get-the {font-size: 14px;}
+.turn-on p {font-size: 10px;}
+.search-info{padding-right: 0;}
+p.serch_text{font-size: 14px;}
+.key-word{font-size: 14px;padding-right: 25px;}
+input#fname{font-size: 14px;}
+b{font-size: 14px;}
+.search-info {padding: 35px 20px 20px;}
+input#browse-homepage{font-size:17px;}
+b{font-size: 14px;}
+a.y{font-size: 12px;}
+.description h4 {font-size: 14px;}
+.discription-type textarea {font-size:14px}
+.title b{font-size: 14px;}
+.price p b{font-size: 14px;}
+.price a{font-size: 14px;}
+input#price{font size: 14px;}
+.us_dollr span{font-size: 14px;}
+.next {margin-top: 116px;}
+.right-oreng-imag {margin-left: -43px;}
+.left-blue-imag{margin-right: -47px;}
+.spread {margin-left: 0px;}
+
+
+}
+@media (max-width:479px){
+	.navigation li a span{padding: 0 9px;}	 
+	.navigation li a{font-size:20px;}
+	.md1 h1{font-size: 17px;}
+	.md1 span{font-size: 14px;}
+	.papular-tag-button a {font-size: 12px;}
+	.offfer-info b{font-size:14px;}
+	.offer-information {padding: 30px 20px 0px 20px;}
+	.title a{font-size: 11px;}
+	.discription-type textarea {font-size: 12px;}
+	.next {margin-top: 147px;}
+}
+
